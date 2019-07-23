@@ -1,4 +1,5 @@
 ## Slate Theme for Home Assistant
+Full Home Assistant configuration files can be found [here](https://github.com/seangreen2/home_assistant).
 
 ### Installation
 
