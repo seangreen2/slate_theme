@@ -5,7 +5,7 @@ Full Home Assistant configuration files can be found [here](https://github.com/s
 
 ### Installation
 
-Download the `slate.yaml` file from inside the `themes` directory here to your local `themes` directory, then reload `themes` in Home Assistant.
+Download the `slate.yaml` file from inside the `themes` directory here to your local `themes` directory, then restart Home Assistant.
 
 ---
 
