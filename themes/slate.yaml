@@ -79,3 +79,5 @@ slate:
   lumo-shade-10pct: 'rgba(34, 34, 34, .1)'
   lumo-shade-5pct: 'rgba(34, 34, 34, .05)'
   lumo-tint-5pct: '#222222'
+  # fix for device configuration screen
+  card-background-color: "var(--paper-card-background-color)"
