@@ -87,3 +87,5 @@ slate:
   card-background-color: "var(--paper-card-background-color)"
   # Fix for Person Device Chooser - thanks to vajonam!
   material-background-color: "var(--paper-listbox-background-color)"
+  material-secondary-background-color: '#222222'
+  material-body-text-color: '#FFFFFF'
