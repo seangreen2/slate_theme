@@ -20,14 +20,14 @@ Restart Home Assistant and select your theme by clicking on your user's profile 
 
 ---
 
-![1](https://i.imgur.com/LRmZRzq.png)
+![1](https://i.imgur.com/7Xepoa5.jpg)
 
-![2](https://i.imgur.com/55zhHu6.png)
+![2](https://i.imgur.com/wEsk3A3.jpg)
 
-![3](https://i.imgur.com/vWPci9f.png)
+![3](https://i.imgur.com/BQvqYws.jpg)
 
-![4](https://i.imgur.com/oToTiB2.png)
+![4](https://i.imgur.com/QBElzUy.jpg)
 
-![5](https://i.imgur.com/hlKHTAa.png)
+![5](https://i.imgur.com/7I3REgE.jpg)
 
 ![6](https://i.imgur.com/SYsRTYW.png)
