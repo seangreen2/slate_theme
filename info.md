@@ -16,9 +16,15 @@ frontend:
   
 Restart Home Assistant and select your theme by clicking on your user's profile circle in the bottom left.
 
+Recommended colors for graphs, bars, etc.
+  - Blue: #2980b9
+  - Yellow: #b58e31
+  - Red: #b83829
+  - Green: #70a03c
+
 ---
 
-![1](https://i.imgur.com/7Xepoa5.jpg)
+![1](https://i.imgur.com/KkvRDnq.png)
 
 ![2](https://i.imgur.com/wEsk3A3.jpg)
 
@@ -26,6 +32,7 @@ Restart Home Assistant and select your theme by clicking on your user's profile 
 
 ![4](https://i.imgur.com/QBElzUy.jpg)
 
-![5](https://i.imgur.com/7I3REgE.jpg)
+![5](https://i.imgur.com/IvoGo6C.png)
 
-![6](https://i.imgur.com/SYsRTYW.png)
+![6](https://i.imgur.com/v49UR9O.png)
+
