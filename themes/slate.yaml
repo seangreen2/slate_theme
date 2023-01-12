@@ -107,3 +107,6 @@ slate:
   input-label-ink-color: 'var(--secondary-text-color)'
   input-disabled-ink-color: 'var(--disabled-text-color)'
   input-dropdown-icon-color: 'var(--primary-text-color)'
+  
+  # fix for card title headers
+  ha-card-header-color: "var(--primary-text-color)"
