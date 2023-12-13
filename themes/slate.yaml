@@ -15,6 +15,7 @@ slate:
   # Background colors
   primary-background-color: '#222222'
   secondary-background-color: '#222222'
+  clear-background-color: '#212121'
   divider-color: 'rgba(255, 255, 255, .12)'
   table-row-background-color: '#292929'
   table-row-alternative-background-color: '#292929'
