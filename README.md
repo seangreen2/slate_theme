@@ -24,6 +24,7 @@ Recommended colors for graphs, bars, etc.
 
 ---
 
-![1](https://i.imgur.com/DpQZ6eq.png)
-![2](https://i.imgur.com/n3ApBNK.png)
-![3](https://i.imgur.com/pnEflUd.jpg)
+![1](https://i.imgur.com/mN2CWjr.jpeg)
+![2](https://i.imgur.com/8PTwdXW.jpeg)
+![3](https://i.imgur.com/YmjjfMt.jpeg)
+![4](https://i.imgur.com/ZdSqZI0.png)
