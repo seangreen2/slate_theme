@@ -29,7 +29,7 @@ slate:
   paper-card-header-color: '#2980b9'
   paper-card-background-color: '#292929'
   paper-dialog-background-color: '#292929'
-  paper-item-icon-color: 'var(--primary-text-color)'
+  state-icon-color: 'var(--primary-text-color)'
   paper-item-icon-active-color: '#b58e31'
   paper-item-icon_-_color: 'green'
   paper-item-selected_-_background-color: '#292929'
