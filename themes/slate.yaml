@@ -116,3 +116,19 @@ slate:
   
   # fix for card title headers
   ha-card-header-color: "var(--primary-text-color)"
+
+  # updates for ha-dropdown in 2026.1
+  wa-color-neutral-fill-normal: '#2f3b4d'
+  wa-color-neutral-fill-hover: '#3e4c5f'
+  wa-color-neutral-fill-stealth: 'transparent'
+  wa-color-text-normal: '#ffffff'
+  wa-color-text-secondary: '#b0bec5'
+  wa-color-text-caption: '#90a4ae'
+  wa-color-brand-fill-normal: '#10c1ad'
+  wa-color-on-brand-fill: '#ffffff'
+  wa-color-selection-normal: 'rgba(16, 193, 173, 0.2)'
+  wa-color-neutral-border-weak: '#242e33'
+  wa-color-neutral-border-normal: '#455a64'
+  mdc-sys-color-surface-container: '#2f3b4d'
+  mdc-sys-color-on-surface: '#ffffff'
+  mdc-sys-color-outline: '#455a64'
