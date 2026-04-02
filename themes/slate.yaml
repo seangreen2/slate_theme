@@ -38,7 +38,8 @@ slate:
       card-background-color: '#292929'
       # simple-thermostat buttons
       st-mode-background: 'var(--primary-background-color)'
-
+      # default icon color
+      state-icon-color: 'var(--primary-text-color)'
       # Card border radius
       ha-card-border-width: '0px'
       ha-card-border-radius: '7px'
