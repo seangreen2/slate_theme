@@ -16,6 +16,19 @@ frontend:
   
 Restart Home Assistant and select your theme by clicking on your user's profile circle in the bottom left.
 
+### Making map cards readable
+
+Slate declares a dark mode, so Home Assistant map cards use their dark map style by default. If a map card is too dark to read, set its `theme_mode` to `light`:
+
+```yaml
+type: map
+theme_mode: light
+entities:
+  - person.example
+```
+
+This keeps the Slate theme for the dashboard while using the light map style for that card.
+
 Recommended colors for graphs, bars, etc.
   - Blue: #2980b9
   - Yellow: #b58e31
